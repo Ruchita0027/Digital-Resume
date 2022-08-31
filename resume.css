@@ -1,0 +1,13 @@
+
+.logo {
+    min-height: fit-content;
+}
+
+.logo img {
+    width: 9rem;
+    margin-right: 0.4rem;
+    position: absolute;
+    bottom: 0px;
+    right: 70px;
+    margin-top: 700px;
+}
